@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/background.jpg"); 
+    background-size: cover; 
+    text-align: center; 
+}
+
+#form {
+    background-color:snow;
+    width: 900px;
+    height:1350px;
+    display: -webkit-inline-box;
+}
+
+.text {
+    text-align: center;
+    width: 100%;
+}
+
+.font {
+    font-family: cursive;
+    font-size: larger;
+   
+}
+
+h1 {
+    font-family: cursive;
+    font-size: -webkit-xxx-large;
+}
+
+#ans-2 {
+    width: 30px;
+}
+
+#ans-3 {
+    width: 300px;
+}
+
+.ans-5 {
+    width:180px; 
+}
+
+.pic-meaning {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#button {
+    width: 200px;
+    height: 50px;
+    margin: 100px;
+    border-radius: 50px;
+    background-color: darkcyan;
+    color: white;
+    font-size: larger;
+}
+
+.image {
+    width:180px; 
+}
+
